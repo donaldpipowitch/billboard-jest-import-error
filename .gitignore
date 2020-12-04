@@ -1,0 +1,16 @@
+node_modules/
+dist/
+cdk.out/
+storybook-build/
+.idea/
+.vim/
+cypress/test-results/
+cypress/videos/
+cypress/screenshots/
+cypress/cucumber-json/
+.storybook/cypress/videos/
+.storybook/cypress/screenshots/
+coverage/
+*.log
+webpack-bundle-analyzer.html
+.DS_Store
